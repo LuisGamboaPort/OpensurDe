@@ -1,0 +1,22 @@
+nueva_tarea: (//button[@data-hotkey="c"])[2]
+input_nombre_tarea: //input[@id='name_0']
+input_categoria: //input[@id='category_ids_0']
+lista_desplegable: //ul[contains(@class,'o-autocomplete--dropdown')]
+primera_opcion_lista_desplegable: //ul[contains(@class,'o-autocomplete--dropdown')]//li
+input_activo: //input[@id='asset_ids_0']
+checkbox_correctivo: //input[@id='corrective_0']
+add_nueva_linea_material: (//div[text()='Materiales y Servicios']//following-sibling::div//a)[1]
+input_nombre_material: //div[text()='Materiales y Servicios']//following-sibling::div//input[@class="o-autocomplete--input o_input"]
+input_cantidad: //input[@inputmode="decimal"]
+add_nueva_linea_mano_obra: (//div[text()='Mano de Obra']//following-sibling::div//a)[1]
+input_nombre_mano_obra: //div[text()='Mano de Obra']//following-sibling::div//input[@class="o-autocomplete--input o_input"]
+input_horas_mano_obra: //td[@name="plan_hours"]
+icono_guardar: //i[@class='fa fa-cloud-upload fa-fw']
+titulo_tareas: //a[@class='fw-bold text-truncate']
+search_box_tareas: //input[@role="searchbox"]
+locator_button_aaprobar: //span[@class="o_search_panel_label_title text-truncate" and text()="A Aprobar"]
+nombre_de_la_tarea: ""  # You can fill in the value if needed
+TABLE_LOCATOR: xpath=//table[contains(@class, 'o_list_table') and contains(@class, 'table-striped')]
+COLUMN_INDEX: 11 
+TARGET_TEXT: A Aprobar
+a_autorizar: //span[normalize-space()='Autorizar']

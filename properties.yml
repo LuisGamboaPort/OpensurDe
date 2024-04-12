@@ -1,0 +1,12 @@
+url: https://servicios.opensur.com/grpuya-fbc996b6-15e4-4818-a03c-a909061e2885/web/login?db=GRPUy_Test_automatizado
+browser: chrome
+solicitante_de_traslado: solicitante.de.traslado
+aprobador_de_traslado: aprobador.de.traslado
+administrador_de_reserva_de_flota: administrador.de.reserva.de.flota
+solicitante_de_mantenimiento: solicitante.de.mantenimiento
+gestor_om: gestor.om
+responsable_om: responsable.om
+ejecutor_om: ejecutor.om
+responsable_pm: responsable.pm
+configurador_mantenimiento: configurador.mantenimiento
+password: 1234

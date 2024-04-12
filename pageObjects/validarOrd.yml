@@ -1,0 +1,2 @@
+locator_button_validacion: //span[@class="o_search_panel_label_title text-truncate" and text()="Validación"]
+locator_validacion_page: //table[contains(@class, 'o_list_table')]/tbody/tr/td[@name="state" and contains(text(), "Validación")]

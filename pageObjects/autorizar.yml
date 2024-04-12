@@ -1,0 +1,2 @@
+locator_button_aaprobar: //span[@class="o_search_panel_label_title text-truncate" and text()="A Aprobar"]
+

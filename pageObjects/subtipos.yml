@@ -1,0 +1,7 @@
+nuevo_subtipo: (//button[@data-hotkey="c"])[2]
+input_categoria_subtipo: //input[@id='category_id_0']
+primera_opcion_lista_desplegable_subtipo: //ul[contains(@class,'o-autocomplete--dropdown')]//li
+input_fecha_desde: //input[@id='date_from_0']
+input_fecha_hasta: //input[@id='date_to_0']
+input_intervalos: //input[@id='interval_number_0']
+select_unidad_intervalo: //select[@id='interval_type_0']
