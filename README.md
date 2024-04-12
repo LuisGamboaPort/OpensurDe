@@ -1,5 +1,7 @@
 
 # Descripción
+Para correr los scripts usar el comando
+robot test
 
 Este repositorio contiene el proyecto de demostración de pruebas automatizas de UI de OpenSur  . 
 La carpeta tests contiene los placholders hasta el momento
