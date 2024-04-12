@@ -20,3 +20,5 @@ TABLE_LOCATOR: xpath=//table[contains(@class, 'o_list_table') and contains(@clas
 COLUMN_INDEX: 11 
 TARGET_TEXT: A Aprobar
 a_autorizar: //span[normalize-space()='Autorizar']
+button_en_proceso: //button[@name="button_process"]
+table_results: //table[@class="o_list_table table table-sm table-hover position-relative mb-0 o_list_table_ungrouped table-striped"]
