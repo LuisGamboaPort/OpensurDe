@@ -4,7 +4,7 @@ Para correr los scripts usar el comando
 (`robot test`)
 
 Este repositorio contiene el proyecto de demostración de pruebas automatizas de UI de OpenSur  . 
-La carpeta tests contiene los placholders hasta el momento
+La carpeta tests contiene los placholders y 6 de 10 scripts como minimo producto viable.
 y la carpeta pages contiene las clases o modulos referentes a las paginas web o menus necesarios para cada test de prueba
 
 # Configuración de Python
